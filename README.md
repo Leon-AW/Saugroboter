@@ -1,4 +1,4 @@
-# Fachuebergreifendes Projekt: Thema
+# Fachuebergreifendes Projekt: Saugroboter
 
 Unser Projekt verfolgt das Ziel einen automatisierten Staubsauger zu bauen und zu programmieren, welcher selbstständig den Raumboden von Staub oder anderen Partikeln befreit. Durch den Eigenbau soll die Wartung und Reparatur und somit die Instandhaltung erleichtert werden.
 
